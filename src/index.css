@@ -1,3 +1,7 @@
+/**
+ * Tailwind CSS Layers
+ * -------------------
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
